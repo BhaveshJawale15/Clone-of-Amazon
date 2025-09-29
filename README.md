@@ -1,0 +1,1 @@
+“Amazora is a beginner web development project created using HTML and CSS. It demonstrates the fundamentals of front-end design, focusing on clean structure, responsive styling, and user-friendly presentation.”
