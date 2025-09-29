@@ -41,9 +41,14 @@
     font-size: 1.1rem;
     margin-left: 3px;
 }
-.india{
+.indiaA{
     display: flex;
     align-items: center;
+}
+.nav-add{
+    height: 50px;
+    align-items: center;
+    align-content: center;
 }
 
 
@@ -91,6 +96,9 @@
 }
 .language{
     display: flex;
+    height:50px;
+    align-items: center;
+    align-content: center;
 }
 .en{
     background-color: #0F1111;
@@ -98,3 +106,56 @@
     border: none;
     font: bold;
 }
+
+/* box-5-6 */
+span{
+    font-size: 0.7rem;
+}
+.acc{
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+.sign{
+    height: 50px;
+    align-content: center;
+}
+
+/* box-7 */
+.cart{
+    display: flex;
+    height: 50px;
+    align-content: center;
+    align-items: center;
+}
+.cart i{
+    font-size: 35px;
+}
+.c{
+    margin-top: 17px;
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
+/* panal */
+.flash{
+    border: 2px solid transparent;
+}
+.flash:hover{
+    border: 2px solid white;
+}
+.panal{
+    display: flex;
+    height: 40px;
+    background-color: #222f3d;
+    color: white;
+    align-items: center;
+}
+.panalops{
+    font-size: 1rem;
+}
+.panalops a{
+    margin-left: 15px;
+    text-decoration: none;
+    color: white;
+}
+
